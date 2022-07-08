@@ -8,8 +8,6 @@
   Also hope for me to have lovely effect from you.<br/><br/>
   🐳
 </p>
-![upmid](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:EEFF00&height=55&section=footer)
-![downmid](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=55&section=header)
 <h2 align="center">💻 Learning 💻</h2>
 <h3 align="center">✏️ Tech Lang ✏️</h3>
 <p align="center">
