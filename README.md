@@ -12,7 +12,7 @@
 <h2 align="center">💻 Learning 💻</h2>
 <h3 align="center">📚 Tech Lang 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-ff6412?style=flat&logo=C++&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/c++-ff6412?style=flat&logo=c%2B%2B&logoColor=white">&nbsp
 </p> 
 </p>
 <h3 align="center">📁 DB Tech 📁</h3>
