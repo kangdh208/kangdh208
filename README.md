@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">💻 Learning 💻</h2>
-<h3 align="center">📚 Tech Lang 📚</h3>
+<h3 align="center">✏️ Tech Lang ✏️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-ff6412?style=flat&logo=c%2B%2B&logoColor=white">&nbsp
 </p> 
@@ -25,7 +25,7 @@
 </p>
 
 <h2 align="center">🎓 Learned 🎓</h2>
-<h3 align="center">📚 Tech Lang 📚</h3>
+<h3 align="center">✏️ Tech Lang ✏️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/ES6-ff0000?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-ffb13b?style=flat&logo=python&logoColor=white"/></a>&nbsp 
@@ -37,6 +37,11 @@
   <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Maria-00599C?style=flat&logo=mariadb&logoColor=white"/></a>&nbsp
 </p>  
+
+<h3 align="center">📚 Library 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JQuery-E6B91E?style=flat&logo=jQuery&logoColor=white"/></a>&nbsp
+</p>
 <h3 align="center">📎 Etc Tech Stack 📎</h3>
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
