@@ -19,7 +19,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/MongoDB-3766AB?style=flat&logo=mongodb&logoColor=white"/></a>&nbsp
 </p>
-<h3 align="center">📎 Ect Tech Stack 📎</h3>
+<h3 align="center">📎 Etc Tech Stack 📎</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-DB3552?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
 </p>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Maria-00599C?style=flat&logo=mariadb&logoColor=white"/></a>&nbsp
 </p>  
-<h3 align="center">📎 Ect Tech Stack 📎</h3>
+<h3 align="center">📎 Etc Tech Stack 📎</h3>
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
 
-<h2 align="center"> 🏁 My SNS 🏁 </h2>
+<h2 align="center"> 🏁 SNS && SMS 🏁 </h2>
 <p align="center">
   <a href="https://www.instagram.com/tom_hyeon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/tom_hyeon/"/></a>&nbsp
   <a href="mailto:kangdh208@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kangdh208@gmail.com"/></a>
