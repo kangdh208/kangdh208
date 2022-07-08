@@ -56,4 +56,4 @@
   <a href="mailto:kangdh208@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kangdh208@gmail.com"/></a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=60&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=90&section=footer)
