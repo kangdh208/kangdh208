@@ -49,6 +49,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/visual studio IDE-ff64ff?style=flat&logo=visualstudio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
 
