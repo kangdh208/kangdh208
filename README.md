@@ -42,6 +42,9 @@
   <img src="https://img.shields.io/badge/JQuery-E6B91E?style=flat&logo=jQuery&logoColor=white"/></a>&nbsp
 </p>
 <h3 align="center">📎 Etc Tech Stack 📎</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AffinityPhoto-7E4DD2?style=flat&logo=AffinityPhoto&logoColor=white"/></a>&nbsp
+</P>
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
