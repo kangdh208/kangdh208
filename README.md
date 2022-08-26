@@ -39,7 +39,7 @@
 
 <h3 align="center">📚 Library 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JQuery-E6B91E?style=flat&logo=jQuery&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-E6B91E?style=flat&logo=React&logoColor=white"/></a>&nbsp
 </p>
 <h3 align="center">📎 Etc Tech Stack 📎</h3>
 <p align="center">
