@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=130&section=header&text=👋Dear🌲%20there🌲,%20Deer🦌%20here🌲%20hears🌲%20you👋&animation=twinkling&fontColor=964B00&fontSize=25)
 
 <h2 align="center"> Hello, World👋, Welcome🤗</h2>
@@ -56,8 +55,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/visual studio IDE-ff64ff?style=flat&logo=visualstudio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
+<br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
+<br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=AWS&logo=Amazon AWS&logoColor=white"/></a>&nbsp
 </p>
 
@@ -70,4 +72,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangdh123)](https://solved.ac/kangdh123/)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:EEFF00&height=90&section=footer)
-
