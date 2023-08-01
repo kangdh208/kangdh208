@@ -6,51 +6,30 @@
   Hope you to have Wonderful Experience here.<br/>
   Also hope for me to have lovely effect from you.<br/><br/>
   🐳
-</p>
-<h2 align="center">💻 Learning 💻</h2>
-<h3 align="center">✏️ Tech ✏️</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ff6412?style=flat&logo=java&logoColor=white">&nbsp
 </p> 
-
-<h3 align="center">📁 DB Tech 📁</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/MongoDB-3766AB?style=flat&logo=mongodb&logoColor=white"/></a>&nbsp
-</p>
-<h3 align="center">📚 Library 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Spring Boot-092E20?style=flat&logo=Spring Boot&logoColor=white"/></a>&nbsp
-</p>
-<h3 align="center">📎 Etc Tech Stack 📎</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-DB3552?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
-</p>
 
 <h2 align="center">🎓 Learned 🎓</h2>
 <h3 align="center">✏️ Tech ✏️</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/ES6-ff0000?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-ffb13b?style=flat&logo=python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-64ff64?style=flat&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-8b00ff?style=flat&logo=html5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-ff6412?style=flat&logo=java&logoColor=white">&nbsp
 </p>
 <h3 align="center">📁 DB Tech 📁</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Maria-00599C?style=flat&logo=mariadb&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-3766AB?style=flat&logo=mongodb&logoColor=white"/></a>&nbsp
 </p>  
 
 <h3 align="center">📚 Library 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-E6B91E?style=flat&logo=React&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-092E20?style=flat&logo=Spring Boot&logoColor=white"/></a>&nbsp
 </p>
-<h3 align="center">📎 Etc Tech Stack 📎</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AffinityPhoto-7E4DD2?style=flat&logo=AffinityPhoto&logoColor=white"/></a>&nbsp
-</P>
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
@@ -64,9 +43,10 @@
 </p>
 
 
+
 <h2 align="center"> 🏁 SNS && SMS 🏁 </h2>
 <p align="center">
-  <a href="https://www.instagram.com/tom_hyeon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/tom_hyeon/"/></a>&nbsp
+  <a href="https://www.instagram.com/dh.tomhy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/tom_hyeon/"/></a>&nbsp
   <a href="mailto:kangdh208@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kangdh208@gmail.com"/></a>
 </p>
 
